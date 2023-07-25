@@ -6,7 +6,11 @@ but is implemented for a modern RISC-V multiprocessor using ANSI C.
 ---
 
 == Test sleep, no arguments == sleep, no arguments: OK (1.9s)
+
+
 == Test sleep, returns == sleep, returns: OK (1.1s)
+
+
 == Test sleep, makes syscall == sleep, makes syscall: OK (1.1s)
 
 ---
